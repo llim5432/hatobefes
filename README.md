@@ -4,3 +4,5 @@
 =======
 <h1><b>hatobefes</h1>
 Is this just a fake project for hacktoberfest?
+
+> A simplified project for begineers to start with.
