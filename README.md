@@ -13,5 +13,8 @@ Obviously!!! YES!!!!!
 
 Is this just a fake project for hacktoberfest?
 
+
+> A simplified project for begineers to start with.
+=======
 > To help out all the novice coders out there
 
